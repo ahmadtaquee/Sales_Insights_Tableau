@@ -97,4 +97,14 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
 
 
+## Dashboards
+#### Tableau Public: [Revenue & Profit Analysis](https://public.tableau.com/app/profile/ahmad.taquee7097)
+
+![Revenue](https://raw.githubusercontent.com/ahmadtaquee/Sales_Insights_Tableau/main/Part-1/Dashboard%20-%20Revenue.png)
+
+![Profit Analysis](https://raw.githubusercontent.com/ahmadtaquee/Sales_Insights_Tableau/main/Part-2/Dashboard%20-%20Profit%20Analysis.png)
+
+
+### Myself
+#### LinkedIn: [Click Here](https://www.linkedin.com/in/ahmadtaquee/)
 
