@@ -105,6 +105,5 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 ![Profit Analysis](https://raw.githubusercontent.com/ahmadtaquee/Sales_Insights_Tableau/main/Part-2/Dashboard%20-%20Profit%20Analysis.png)
 
 
-### Myself
-#### LinkedIn: [Click Here](https://www.linkedin.com/in/ahmadtaquee/)
+#### Found me on LinkedIn: [Click Here](https://www.linkedin.com/in/ahmadtaquee/)
 
