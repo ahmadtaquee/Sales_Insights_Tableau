@@ -48,7 +48,9 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 ### A very simple approach
 ![alt text](https://raw.githubusercontent.com/ahmadtaquee/Sales_Insights_Tableau/main/flow.jpg)
 
-#### Tutorials: [OLTP & OLAP](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/)
+#### Tutorials: 
+- [OLTP & OLAP](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/)
+- [Star Schema: Fact Table & Dimension Table](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema)
 
 ### Instructions to setup MySQL on your Laptop
 
